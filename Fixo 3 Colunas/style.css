@@ -1,0 +1,36 @@
+#wrapper{
+    width: 960px;
+    margin: 0 auto;
+    background-color: bisque;
+}
+
+#content{
+    margin: 0;
+    position: relative;
+}
+
+#main{
+    float: left;
+    width: 520px  ;
+    position: absolute;
+    top: 20;
+    left: 220px;
+    margin: 0;
+    background-color: blue;
+}
+#links{
+    width: 200px;
+    position: absolute;
+    top: 20;
+    left: 0;
+    margin: 0;
+    background-color: red;
+}
+#news{
+    width: 200px;
+    position: absolute;
+    top: 20;
+    right: 0;
+    margin: 0;
+    background-color: red;
+}

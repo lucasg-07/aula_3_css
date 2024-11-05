@@ -1,0 +1,21 @@
+#wrapper{
+    width: 960px;
+    background-color: bisque;
+}
+#main{
+    float: left;
+    width: 650pox;
+    margin: 0 20px;
+    background-color: blue;
+}
+#extras{
+    float: left;
+    width: 650px;
+    margin: 0 20px 0 0 ;
+    background-color: red;
+}
+#footer{
+    clear:left;
+    background-color: aqua;
+    
+}
